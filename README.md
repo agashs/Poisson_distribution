@@ -1,9 +1,6 @@
-```c
-NAME : Surya Prakash B
-REG-NO : 212224230281
-DATE : 06-03-2025
-```
 # EXP-2 : Fitting Poisson  distribution
+## Name  : AGASH S
+## Reg no: 212224040014
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
