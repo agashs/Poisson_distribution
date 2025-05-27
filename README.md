@@ -1,6 +1,5 @@
-# EXP-2 : Fitting Poisson  distribution
-## Name  : AGASH S
-## Reg no: 212224040014
+# EXP-02 : Fitting Poisson  distribution
+## Date:27.02.2025
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -32,6 +31,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```python
+Develoed by: AGASH S
+Register Number : 212224040014
 
 import numpy as np
 import math
